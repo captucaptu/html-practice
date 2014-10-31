@@ -1,0 +1,82 @@
+#container{
+width: 580px;
+}
+div{
+margin: 0px;
+padding: 0px;
+display: block;
+}
+#topbar{
+margin: 10px 0px 10px 0px; /*Â²¼g¶¶§Ç¬°¤W¥k¤U¥ª*/
+}
+.topobj{
+width: 25%;
+font-family: Helvetica;
+font-size: 7pt;
+letter-spacing: 1pt;
+float: left;
+}
+#bold75{
+font-weight: bolder;
+}
+#medium65{
+font-weight: bold;
+}
+#roman55{
+font-weight: normal;
+}
+#light45{
+font-weight: lighter;
+}
+#title{
+width: 580px;
+margin: auto;
+}
+#left{
+width: 50%;
+font-family: Helvetica;
+font-size: 40pt;
+font-weight: bold;
+letter-spacing: 1pt;
+text-align: right;
+line-height: 90%;
+float: left;
+display: block;
+}
+#right{
+width: 50%;
+font-family: Helvetica;
+font-size: 40pt;
+font-weight: bold;
+letter-spacing: 1pt;
+line-height: 90%;
+text-align: left;
+float: left;
+display: block;
+}
+.mark{
+color: red;
+}
+#content{
+float: 
+}
+.text{
+width: 25%;
+font-family: Helvetica;
+font-size: 7pt;
+letter-spacing: 1pt;
+float: left;
+padding: 5px;
+}
+#part1{
+font-weight: bolder;
+}
+#part2{
+font-weight: bold;
+}
+#part3{
+font-weight: normal;
+}
+#part4{
+font-weight: lighter;
+}
